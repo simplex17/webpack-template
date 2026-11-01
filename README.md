@@ -8,7 +8,7 @@ A reusable Webpack 5 template for VanillaJS projects.
 - **css-loader** and **style-loader** : Used to handle CSS imports and inject styles into the DOM.
 - **html-loader** : Used to process HTML files and handle assets referenced within them, such as images.
 
-Other dependecies are used for webpack, the development server, linting and formatting.
+Other dependencies are used for webpack, the development server, linting and formatting.
 
 ## Linting
 
